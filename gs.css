@@ -64,8 +64,8 @@ ul.navbar-horizontal{
 }
 ul.navbar-horizontal li{
     float: left;
-    color:rgb(68, 64, 64)
-    background-color: rgb(178, 157, 192);
+    color:rgb(68, 64, 64);
+    background-color: aqua;
 }
 ul.navbar-horizontal a{
     display: block;
